@@ -1,1 +1,3 @@
-print('Первый файл первого репозитория!')
+import aiogram
+import requests
+import telebot
